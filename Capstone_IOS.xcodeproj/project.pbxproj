@@ -7,13 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D996C6AB2CAC5961002FDF7E /* AveriaSansLibre-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D996C6A42CAC5646002FDF7E /* AveriaSansLibre-Regular.ttf */; };
+		D996C6AD2CAC5C16002FDF7E /* GermaniaOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D996C6AC2CAC5BC1002FDF7E /* GermaniaOne-Regular.ttf */; };
+		D996C6AF2CB44C59002FDF7E /* NavButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = D996C6AE2CB44C59002FDF7E /* NavButtons.swift */; };
 		D9AF96032C911F2500C159A0 /* Capstone_IOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF96022C911F2500C159A0 /* Capstone_IOSApp.swift */; };
-		D9AF96052C911F2500C159A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF96042C911F2500C159A0 /* ContentView.swift */; };
 		D9AF96072C911F2500C159A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9AF96062C911F2500C159A0 /* Assets.xcassets */; };
-		D9AF960B2C911F2500C159A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9AF960A2C911F2500C159A0 /* Preview Assets.xcassets */; };
-		D9AF96152C911F2500C159A0 /* Capstone_IOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF96142C911F2500C159A0 /* Capstone_IOSTests.swift */; };
-		D9AF961F2C911F2500C159A0 /* Capstone_IOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF961E2C911F2500C159A0 /* Capstone_IOSUITests.swift */; };
-		D9AF96212C911F2500C159A0 /* Capstone_IOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF96202C911F2500C159A0 /* Capstone_IOSUITestsLaunchTests.swift */; };
+		D9AF964C2C93E2DC00C159A0 /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF964B2C93E2DC00C159A0 /* QuizView.swift */; };
+		D9AF96502C93E53A00C159A0 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF964F2C93E53A00C159A0 /* IntroView.swift */; };
+		D9AF96542C93F45F00C159A0 /* ContentType.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF96532C93F45F00C159A0 /* ContentType.swift */; };
+		D9AF96582C93F5DB00C159A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF96572C93F5DB00C159A0 /* ContentView.swift */; };
+		D9AF965C2C93FFBD00C159A0 /* LectureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF965B2C93FFBD00C159A0 /* LectureView.swift */; };
+		D9AF96602C9536BA00C159A0 /* NavBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF965F2C9536BA00C159A0 /* NavBarView.swift */; };
+		D9AF96782CA3873700C159A0 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF96772CA3873700C159A0 /* ProgressBar.swift */; };
+		D9AF96832CA70C6F00C159A0 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AF96812CA5BD8700C159A0 /* ContentViewModel.swift */; };
+		D9AF96872CA70D9E00C159A0 /* Lesson1.geojson in Resources */ = {isa = PBXBuildFile; fileRef = D9AF96702C968C7300C159A0 /* Lesson1.geojson */; };
+		D9AF96892CA70DB300C159A0 /* Lesson2.geojson in Resources */ = {isa = PBXBuildFile; fileRef = D9AF96722C968D3100C159A0 /* Lesson2.geojson */; };
+		D9AF968A2CA70DB600C159A0 /* Lesson3.geojson in Resources */ = {isa = PBXBuildFile; fileRef = D9AF96732C968D8400C159A0 /* Lesson3.geojson */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,17 +43,33 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D996C69E2CAC562F002FDF7E /* Capstone-IOS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Capstone-IOS-Info.plist"; sourceTree = SOURCE_ROOT; };
+		D996C6A02CAC5646002FDF7E /* AveriaSansLibre-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AveriaSansLibre-Italic.ttf"; sourceTree = "<group>"; };
+		D996C6A12CAC5646002FDF7E /* AveriaSansLibre-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AveriaSansLibre-Light.ttf"; sourceTree = "<group>"; };
+		D996C6A22CAC5646002FDF7E /* AveriaSansLibre-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AveriaSansLibre-Bold.ttf"; sourceTree = "<group>"; };
+		D996C6A32CAC5646002FDF7E /* AveriaSansLibre-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AveriaSansLibre-BoldItalic.ttf"; sourceTree = "<group>"; };
+		D996C6A42CAC5646002FDF7E /* AveriaSansLibre-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AveriaSansLibre-Regular.ttf"; sourceTree = "<group>"; };
+		D996C6A52CAC5646002FDF7E /* OFL.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		D996C6A62CAC5646002FDF7E /* AveriaSansLibre-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AveriaSansLibre-LightItalic.ttf"; sourceTree = "<group>"; };
+		D996C6AC2CAC5BC1002FDF7E /* GermaniaOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GermaniaOne-Regular.ttf"; sourceTree = "<group>"; };
+		D996C6AE2CB44C59002FDF7E /* NavButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavButtons.swift; sourceTree = "<group>"; };
 		D9AF95FF2C911F2500C159A0 /* Capstone_IOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Capstone_IOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9AF96022C911F2500C159A0 /* Capstone_IOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capstone_IOSApp.swift; sourceTree = "<group>"; };
-		D9AF96042C911F2500C159A0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D9AF96062C911F2500C159A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9AF96082C911F2500C159A0 /* Capstone_IOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Capstone_IOS.entitlements; sourceTree = "<group>"; };
-		D9AF960A2C911F2500C159A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D9AF96102C911F2500C159A0 /* Capstone_IOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Capstone_IOSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D9AF96142C911F2500C159A0 /* Capstone_IOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capstone_IOSTests.swift; sourceTree = "<group>"; };
 		D9AF961A2C911F2500C159A0 /* Capstone_IOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Capstone_IOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D9AF961E2C911F2500C159A0 /* Capstone_IOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capstone_IOSUITests.swift; sourceTree = "<group>"; };
-		D9AF96202C911F2500C159A0 /* Capstone_IOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capstone_IOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D9AF964B2C93E2DC00C159A0 /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
+		D9AF964F2C93E53A00C159A0 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		D9AF96532C93F45F00C159A0 /* ContentType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentType.swift; sourceTree = "<group>"; };
+		D9AF96572C93F5DB00C159A0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D9AF965B2C93FFBD00C159A0 /* LectureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LectureView.swift; sourceTree = "<group>"; };
+		D9AF965F2C9536BA00C159A0 /* NavBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavBarView.swift; sourceTree = "<group>"; };
+		D9AF96702C968C7300C159A0 /* Lesson1.geojson */ = {isa = PBXFileReference; explicitFileType = text.json; path = Lesson1.geojson; sourceTree = "<group>"; };
+		D9AF96722C968D3100C159A0 /* Lesson2.geojson */ = {isa = PBXFileReference; explicitFileType = text.json; path = Lesson2.geojson; sourceTree = "<group>"; };
+		D9AF96732C968D8400C159A0 /* Lesson3.geojson */ = {isa = PBXFileReference; explicitFileType = text.json; path = Lesson3.geojson; sourceTree = "<group>"; };
+		D9AF96772CA3873700C159A0 /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
+		D9AF96812CA5BD8700C159A0 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,12 +97,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D996C69B2CA864DF002FDF7E /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D996C69F2CAC5646002FDF7E /* Averia_Sans_Libre */ = {
+			isa = PBXGroup;
+			children = (
+				D996C6A42CAC5646002FDF7E /* AveriaSansLibre-Regular.ttf */,
+				D996C6A02CAC5646002FDF7E /* AveriaSansLibre-Italic.ttf */,
+				D996C6A12CAC5646002FDF7E /* AveriaSansLibre-Light.ttf */,
+				D996C6A22CAC5646002FDF7E /* AveriaSansLibre-Bold.ttf */,
+				D996C6A32CAC5646002FDF7E /* AveriaSansLibre-BoldItalic.ttf */,
+				D996C6A52CAC5646002FDF7E /* OFL.txt */,
+				D996C6A62CAC5646002FDF7E /* AveriaSansLibre-LightItalic.ttf */,
+			);
+			path = Averia_Sans_Libre;
+			sourceTree = "<group>";
+		};
 		D9AF95F62C911F2500C159A0 = {
 			isa = PBXGroup;
 			children = (
 				D9AF96012C911F2500C159A0 /* Capstone_IOS */,
-				D9AF96132C911F2500C159A0 /* Capstone_IOSTests */,
-				D9AF961D2C911F2500C159A0 /* Capstone_IOSUITests */,
 				D9AF96002C911F2500C159A0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -95,38 +139,67 @@
 		D9AF96012C911F2500C159A0 /* Capstone_IOS */ = {
 			isa = PBXGroup;
 			children = (
+				D996C6AC2CAC5BC1002FDF7E /* GermaniaOne-Regular.ttf */,
+				D996C69E2CAC562F002FDF7E /* Capstone-IOS-Info.plist */,
+				D996C69F2CAC5646002FDF7E /* Averia_Sans_Libre */,
+				D996C69B2CA864DF002FDF7E /* Preview Content */,
+				D9AF96762CA3871A00C159A0 /* Components */,
+				D9AF966F2C968C4800C159A0 /* Data */,
+				D9AF96412C93D9F100C159A0 /* ViewModels */,
+				D9AF963D2C93D6B900C159A0 /* Views */,
+				D9AF96372C93D66A00C159A0 /* Models */,
 				D9AF96022C911F2500C159A0 /* Capstone_IOSApp.swift */,
-				D9AF96042C911F2500C159A0 /* ContentView.swift */,
 				D9AF96062C911F2500C159A0 /* Assets.xcassets */,
 				D9AF96082C911F2500C159A0 /* Capstone_IOS.entitlements */,
-				D9AF96092C911F2500C159A0 /* Preview Content */,
 			);
 			path = Capstone_IOS;
 			sourceTree = "<group>";
 		};
-		D9AF96092C911F2500C159A0 /* Preview Content */ = {
+		D9AF96372C93D66A00C159A0 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				D9AF960A2C911F2500C159A0 /* Preview Assets.xcassets */,
+				D9AF96532C93F45F00C159A0 /* ContentType.swift */,
 			);
-			path = "Preview Content";
+			path = Models;
 			sourceTree = "<group>";
 		};
-		D9AF96132C911F2500C159A0 /* Capstone_IOSTests */ = {
+		D9AF963D2C93D6B900C159A0 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				D9AF96142C911F2500C159A0 /* Capstone_IOSTests.swift */,
+				D9AF964B2C93E2DC00C159A0 /* QuizView.swift */,
+				D9AF964F2C93E53A00C159A0 /* IntroView.swift */,
+				D9AF96572C93F5DB00C159A0 /* ContentView.swift */,
+				D9AF965B2C93FFBD00C159A0 /* LectureView.swift */,
+				D9AF965F2C9536BA00C159A0 /* NavBarView.swift */,
 			);
-			path = Capstone_IOSTests;
+			path = Views;
 			sourceTree = "<group>";
 		};
-		D9AF961D2C911F2500C159A0 /* Capstone_IOSUITests */ = {
+		D9AF96412C93D9F100C159A0 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
-				D9AF961E2C911F2500C159A0 /* Capstone_IOSUITests.swift */,
-				D9AF96202C911F2500C159A0 /* Capstone_IOSUITestsLaunchTests.swift */,
+				D9AF96812CA5BD8700C159A0 /* ContentViewModel.swift */,
 			);
-			path = Capstone_IOSUITests;
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		D9AF966F2C968C4800C159A0 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				D9AF96702C968C7300C159A0 /* Lesson1.geojson */,
+				D9AF96722C968D3100C159A0 /* Lesson2.geojson */,
+				D9AF96732C968D8400C159A0 /* Lesson3.geojson */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		D9AF96762CA3871A00C159A0 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				D9AF96772CA3873700C159A0 /* ProgressBar.swift */,
+				D996C6AE2CB44C59002FDF7E /* NavButtons.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,7 +306,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9AF960B2C911F2500C159A0 /* Preview Assets.xcassets in Resources */,
+				D996C6AB2CAC5961002FDF7E /* AveriaSansLibre-Regular.ttf in Resources */,
+				D9AF96892CA70DB300C159A0 /* Lesson2.geojson in Resources */,
+				D9AF968A2CA70DB600C159A0 /* Lesson3.geojson in Resources */,
+				D9AF96872CA70D9E00C159A0 /* Lesson1.geojson in Resources */,
+				D996C6AD2CAC5C16002FDF7E /* GermaniaOne-Regular.ttf in Resources */,
 				D9AF96072C911F2500C159A0 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,8 +336,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9AF96052C911F2500C159A0 /* ContentView.swift in Sources */,
+				D9AF96582C93F5DB00C159A0 /* ContentView.swift in Sources */,
+				D9AF964C2C93E2DC00C159A0 /* QuizView.swift in Sources */,
+				D9AF96502C93E53A00C159A0 /* IntroView.swift in Sources */,
+				D9AF96602C9536BA00C159A0 /* NavBarView.swift in Sources */,
+				D9AF96832CA70C6F00C159A0 /* ContentViewModel.swift in Sources */,
 				D9AF96032C911F2500C159A0 /* Capstone_IOSApp.swift in Sources */,
+				D9AF96542C93F45F00C159A0 /* ContentType.swift in Sources */,
+				D996C6AF2CB44C59002FDF7E /* NavButtons.swift in Sources */,
+				D9AF96782CA3873700C159A0 /* ProgressBar.swift in Sources */,
+				D9AF965C2C93FFBD00C159A0 /* LectureView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,7 +353,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9AF96152C911F2500C159A0 /* Capstone_IOSTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,8 +360,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9AF961F2C911F2500C159A0 /* Capstone_IOSUITests.swift in Sources */,
-				D9AF96212C911F2500C159A0 /* Capstone_IOSUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,6 +501,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Capstone-IOS-Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -457,6 +540,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Capstone-IOS-Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;

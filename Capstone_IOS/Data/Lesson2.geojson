@@ -1,0 +1,143 @@
+{
+    "content": [
+        {
+            "type": "lecture",
+            "title": "Lesson 2: Understanding",
+            "image": "img24",
+            "alt": "A cartoon dragon.",
+            "text": "Evaluating AI's responses is much like making pasta. Does it need more clarity? A pinch of specificity? If the first taste doesn't hit the mark, we refine our request, adding more detail or shifting our approach, guiding the AI towards the flavor of answer we seek."
+        },
+        {
+            "type": "lecture",
+            "title": "Lesson 2: Understanding",
+            "image": "img37",
+            "alt": "A cartoon dragon.",
+            "text": "But here's the key ingredient: originality. Directly using AI's responses is like serving a dish straight from a cookbook without making it your own. It lacks your personal touch. Instead, use the AI's response as a base, then add your own insights, style, and talent. That way, you're not just repeating what's been said; you're creating something uniquely yours and actively learning."
+        },
+        {
+            "type": "lecture",
+            "title": "Lesson 2: Understanding",
+            "image": "img27",
+            "alt": "A cartoon dragon.",
+            "text": "So what do we do with a response? Remember, AI doesn't think like you, but instead predicts what words go together. It's your job to fact-check ChatGPT. Fact-checking is making sure something is true with a trustworthy website, teacher, or book. And remember: copy and pasting a ChatGPT response is plagiarism! Let's explore how to use ChatGPT to learn without cheating."
+        },
+        {
+            "type": "quiz",
+            "quiz": {
+                "questionNumber": 3,
+                "question": "What is fact-checking?",
+                "choices": [
+                    {
+                        "name": "Verifying that information is correct",
+                        "explanation": "Correct: Fact-checking involves confirming the accuracy of information by comparing it with reliable sources."
+                    },
+                    {
+                        "name": "Making up information",
+                        "explanation": "Incorrect: Fact-checking is the opposite of making up information. It's about ensuring the truthfulness of the information."
+                    },
+                    {
+                        "name": "Trusting information blindly",
+                        "explanation": "Incorrect: Fact-checking encourages skepticism and critical thinking, rather than blind trust."
+                    }
+                ],
+                "answerIndex": 0
+            }
+        },
+        {
+            "type": "lecture",
+            "title": "Lesson 2: Understanding",
+            "image": "img30",
+            "alt": "A cartoon dragon.",
+            "text": "Checking ChatGPT's answers is really important. It helps us avoid spreading wrong information (misinformation), and make sure we only share things we know are right. Let's learn more about why it's important to check ChatGPT's answers and why misinformation is harmful."
+        },
+        {
+            "type": "quiz",
+            "quiz": {
+                "questionNumber": 6,
+                "question": "What does fact-checking help you avoid?",
+                "choices": [
+                    {
+                        "name": "Spreading rumors or false information",
+                        "explanation": "Correct! Fact-checking helps prevent the dissemination of rumors or false information by ensuring the accuracy and reliability of the information being shared."
+                    },
+                    {
+                        "name": "Making friends",
+                        "explanation": "Incorrect: Fact-checking is unrelated to making friends. It is focused on verifying the accuracy of information."
+                    },
+                    {
+                        "name": "Eating snacks",
+                        "explanation": "Incorrect: Fact-checking is unrelated to eating snacks. It is focused on verifying the accuracy and reliability of information."
+                    }
+                ],
+                "answerIndex": 0
+            }
+        },
+        {
+            "type": "lecture",
+            "title": "Lesson 2: Understanding",
+            "image": "img25",
+            "alt": "A cartoon dragon.",
+            "text": "Using ChatGPT responsibly is super important! It requires double-checking your work. By comparing ChatGPT's answers with information from other trustworthy sources, we can be sure we're getting the right info. This way, we don't spread any wrong facts or rumors. Checking ChatGPT's answers helps us keep our info honest and reliable. Let's dive into why it's crucial to use ChatGPT responsibly, so we can make smart choices!"
+        },
+        {
+            "type": "quiz",
+            "quiz": {
+                "questionNumber": 7,
+                "question": "How can fact-checking help you make better decisions?",
+                "choices": [
+                    {
+                        "name": "By ensuring you have the correct information",
+                        "explanation": "Correct! Fact-checking ensures that the information you rely on for decision-making is accurate and reliable."
+                    },
+                    {
+                        "name": "By making decisions randomly",
+                        "explanation": "Incorrect: Making decisions randomly is not a responsible approach. Fact-checking helps ensure informed decision-making based on accurate information."
+                    },
+                    {
+                        "name": "By avoiding information altogether",
+                        "explanation": "Incorrect: Avoiding information altogether hinders informed decision-making. Fact-checking allows you to access reliable information for better decision-making."
+                    }
+                ],
+                "answerIndex": 0
+            }
+            
+        },
+        {
+            "type": "lecture",
+            "title": "Lesson 2: Understanding",
+            "image": "img49",
+            "alt": "A cartoon dragon.",
+            "text": "Plagiarism using ChatGPT is when someone copies and pastes the response they get from ChatGPT without giving credit to where the information came from. It's like taking someone else's work and pretending it's your own. This is not okay, because it's not honest or fair to the original creators of the information. ChatGPT's responses should be used as inspiration for your own words. This way, you're being honest while using ChatGPT to help you learn."
+        },
+        {
+            "type": "quiz",
+            "quiz": {
+                "questionNumber": 9,
+                "question": "You ask ChatGPT for information about a historical event, and it provides a response. What should you do next?",
+                "choices": [
+                    {
+                        "name": "Use the response without verifying the information with other sources.",
+                        "explanation": "Incorrect: You should never use ChatGPT’s response without verifying the information with other credible sources. It's like trusting someone without making sure they're telling the truth."
+                    },
+                    {
+                        "name": "Assume ChatGPT's response is correct and move on to the next question and repeat.",
+                        "explanation": "Incorrect: Assuming something is true without verifying it can lead to misinformation being spread. Always double-check the information provided by ChatGPT."
+                    },
+                    {
+                        "name": "Cross-reference the information with reliable sources.",
+                        "explanation": "Correct! Just as you would fact-check information from any source, it's important to confirm the information provided by ChatGPT with other reliable sources. This helps ensure accuracy and gives you a more complete understanding of the topic."
+                    }
+                ],
+                "answerIndex": 2
+            }
+        },
+        {
+            "type": "lecture",
+            "title": "Lesson 2: Understanding",
+            "image": "img15",
+            "alt": "",
+            "text": "Using ChatGPT can be a valuable tool for learning new ideas. However, it's important to use it responsibly and ethically. Remember to fact-check information from reliable sources and avoid plagiarism by putting responses into your own words. By doing so, you'll increase your understanding and critical thinking skills."
+        }
+    ]
+}
+

@@ -1,0 +1,160 @@
+{
+  "content": [
+    {
+      "type": "lecture",
+      "title": "Lesson 3: Introduction",
+      "image": "img43.jpg",
+      "alt": "A cartoon person training a dragon.",
+      "text": "Imagine embarking on a thrilling journey not with dragons, but with something equally powerful and mysterious—artificial intelligence (AI). Just as a young Viking discovered the world of dragons and learned to interact with them, you too will explore the capabilities of AI technologies like ChatGPT. In this journey, the dragons represent the powerful AI systems that, when understood and used correctly, can become valuable allies."
+    },
+    {
+      "type": "lecture",
+      "title": "Lesson 3: Introduction",
+      "image": "img43.jpg",
+      "alt": "A cartoon person training a dragon.",
+      "text": "Beware, just like how dragons can be unpredictable and require careful handling, AI also comes with its own set of challenges and ethical considerations like risks of misinformation, bias, and ethical dilemmas that come with it. To safely navigate this jungle and unearth its treasures, you need more than just a map; to equip you with the knowledge to distinguish between valuable and accurate information and the dangerous pitfalls of misleading data. With this guidebook, you are set for an adventure in the jungle of AI and dragons, ready to explore its wonders while avoiding its traps."
+    },
+    {
+      "type": "lecture",
+      "title": "Objective 1: Understanding How ChatGPT Works",
+      "image": "img15.jpg",
+      "alt": "A cartoon person training a dragon.",
+      "text": "Imagine you have a smart robot. You can ask it anything, and it tries its best to give you the right answer. But how does it know what to say? AI, like our robot, learns from reading lots and lots of books, articles, and websites. The more it reads, the smarter it gets. However, it doesn't understand things like a human does—it remembers patterns in the words it has seen and uses those patterns to guess the best answer to your questions. AI is not good at understanding feelings or making moral decisions like humans can. Knowing this helps us decide when to use AI (like for homework help) and when to rely on human judgment (like asking for advice on a personal problem) to avoid misinformation."
+    },
+    {
+      "type": "lecture",
+      "title": "Objective 1: Understanding How ChatGPT Works",
+      "image": "img19.jpg",
+      "alt": "A cartoon person training a dragon.",
+      "text": "Think of AI as having a super-fast brain for certain tasks like solving math problems or remembering facts but it's not good at understanding feelings or making moral decisions like humans can. Knowing this helps us decide when to use AI (like for homework help) and when to rely on human judgment (like asking for advice on a personal problem) to avoid misinformation."
+    },
+    {
+      "type": "quiz",
+      "questionNumber": 1,
+      "question": "What’s the most important reason for people to understand how ChatGPT works?",
+      "choices": [
+        {
+          "name": "So they can easily find information without having to do research",
+          "explanation": "Not quite... While ChatGPT can help find information, understanding how it works is more about using it wisely, not skipping the learning process. It’s like fishing, to catch as many fish you want, you need to learn how to fish and get the correct fishing materials to fish as much as you want!"
+        },
+        {
+          "name": "To avoid misinformation and manipulation",
+          "explanation": "Correct! Learning how ChatGPT and AI works is like understanding the rules of a board game; knowing them helps us play the game correctly and recognize when something is off or wrong."
+        },
+        {
+          "name": "Because it is required to use ChatGPT.",
+          "explanation": "Not quite... There's no rule saying you must understand its workings to use it, but knowing helps you use it more effectively. For example, to cook an egg, understanding how long you need to cook it for and what temperature to cook it at will help you not eat it raw and get sick. If you cook an egg without understanding when it is cooked or raw can lead to an upset stomach!"
+        }
+      ],
+      "answerIndex": 1
+    },
+    {
+      "type": "lecture",
+      "title": "Objective 2: Recognizing AI Limitations and Risks",
+      "image": "img16.jpg",
+      "alt": "",
+      "text": "AI Isn't Perfect. Even though AI can be super helpful, it has its limits. Imagine you're playing a video game, but sometimes the game glitches. AI can glitch in a way, too. For example, it might give you wrong information if it has learned from incorrect data. Just like you can't fly a dragon into a storm, you shouldn't rely on AI for everything without double-checking its answers."
+    },
+    {
+      "type": "lecture",
+      "title": "Objective 2: Recognizing AI Limitations and Risks",
+      "image": "img21.jpg",
+      "alt": "",
+      "text": "It's important to remember that AI is just one tool in our toolkit. We need to use other tools as well, like books, asking teachers, or talking to friends, to make sure we understand the full picture. When there comes a time where you need to showcase your skills without the support of AI, you may not know how to solve the problem if you don’t try to learn each step. This helps us avoid mistakes and learn better."
+    },
+    {
+      "type": "quiz",
+      "questionNumber": 2,
+      "question": "What is the result of ONLY relying on AI systems like ChatGPT for information?",
+      "choices": [
+        {
+          "name": "Reduced critical thinking skills and potential for misinformation.",
+          "explanation": "That’s correct: If you rely on ChatGPT without taking the time to learn the steps on how you got that answer, you may not know how to do it yourself and fully understand on how to solve the problem. This reduces your critical thinking skills and increases the potential for misinformation. It's like always taking the elevator and forgetting how to climb stairs."
+        },
+        {
+          "name": "More accurate information.",
+          "explanation": "Not quite... AI can be a helpful tool, but overreliance might lead us to accept information without questioning its accuracy."
+        },
+        {
+          "name": "Enhanced creativity and problem-solving skills.",
+          "explanation": "Not quite... While AI can inspire new ideas, overusing it may dampen our own creativity and problem-solving abilities."
+        }
+      ],
+      "answerIndex": 0
+    },
+    {
+      "type": "quiz",
+      "questionNumber": 3,
+      "question": "Why is it important to understand the limitations of ChatGPT and other AI systems?",
+      "choices": [
+        {
+          "name": "To avoid relying too much on ChatGPT and encourage critical problem-solving skills beyond what AI systems can offer.",
+          "explanation": "Although this is important in understanding the limitations of AI, you should look at the other response options to see if they are also accurate as well!"
+        },
+        {
+          "name": "To foster a realistic understanding of AI capabilities and limitations, promoting informed decision-making.",
+          "explanation": "Although this is important in understanding the limitations of AI, you should look at the other response options to see if they are also accurate as well!"
+        },
+        {
+          "name": "All of the above.",
+          "explanation": "Correct! Knowing AI's limits helps us not to lean too much on it and keeps us learning and growing. It's like knowing when to ask a friend for help instead of always relying on a computer."
+        }
+      ],
+      "answerIndex": 2
+    },
+    {
+      "type": "lecture",
+      "title": "Objective 3: Identifying Biases in AI Responses",
+      "image": "img55.jpg",
+      "alt": "",
+      "text": "Bias means being unfairly in favor of or against something or someone. Sometimes, without meaning to, people teach AI their own biases. For example, if most stories an AI reads say dragons are scary, it might wrongly believe all dragons are scary. However, Dragons can be sweet and nice too! We need to teach AI about the good dragons as well!"
+    },
+    {
+      "type": "quiz",
+      "questionNumber": 4,
+      "question": "What are biases?",
+      "choices": [
+        {
+          "name": "Ways that people and groups harm others through subconscious belief",
+          "explanation": "Biases are like invisible traps that can lead to unfairness, often without us knowing. They can sneak into AI like ChatGPT, affecting the fairness of the information we get."
+        },
+        {
+          "name": "Objective and scientific viewpoints",
+          "explanation": "Not quite… being objective and having scientific viewpoints means that you have evidence to help support your claim and make a fair judgment."
+        },
+        {
+          "name": "Flaws in AI systems",
+          "explanation": "Not quite… having flaws in AI systems are a result of having biases because it leads to unfairness and unsupported claims that can be harmful."
+        }
+      ],
+      "answerIndex": 0
+    },
+    {
+      "type": "quiz",
+      "questionNumber": 5,
+      "question": "Are ChatGPT’s responses biased?",
+      "choices": [
+        {
+          "name": "Yes, always.",
+          "explanation": "Not always… ChatGPT's responses can be influenced by biases present in the data it was trained on, but not every response is biased. It’s important to check multiple sources and think critically about the information we get."
+        },
+        {
+          "name": "No, never.",
+          "explanation": "Not quite… While AI strives to be unbiased, it's not perfect and can reflect biases from its training data."
+        },
+        {
+          "name": "Sometimes, depending on the data it was trained on.",
+          "explanation": "Correct! The biases in ChatGPT’s responses depend on the data it learned from. Just like in real life, it’s important to be aware of these biases and seek balanced viewpoints."
+        }
+      ],
+      "answerIndex": 2
+    },
+    {
+      "type": "lecture",
+      "title": "Summary and Takeaways",
+      "image": "img12.jpg",
+      "alt": "",
+      "text": "In this lesson, we've explored the fascinating world of AI, understanding how ChatGPT works, recognizing its limitations, and being mindful of biases. AI can be a powerful tool, but it's important to use it wisely and not rely on it entirely. Think of AI as a helpful dragon—it's great to have it by your side, but you should always be aware of its limitations and potential biases to make the most out of your journey!"
+    }
+  ]
+}

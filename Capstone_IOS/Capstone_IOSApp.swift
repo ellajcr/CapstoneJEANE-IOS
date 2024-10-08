@@ -1,17 +1,15 @@
-//
-//  Capstone_IOSApp.swift
-//  Capstone_IOS
-//
-//  Created by Ella Crowder on 9/10/24.
-//
-
 import SwiftUI
 
 @main
 struct Capstone_IOSApp: App {
+    @State private var showMenu: Bool = false
+    @State private var nextSlideEnabled: Bool = true
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                IntroView(showMenu: $showMenu)
+            }
         }
     }
 }
