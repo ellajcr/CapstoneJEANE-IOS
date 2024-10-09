@@ -8,3 +8,10 @@ Educate on Responsible AI Use: Foster an understanding of ethical AI use in educ
 **Features**
 Interactive Quizes: Engaging and fun activities that reinforce learning objectives and concepts.
 Informative Prompts: Thought-provoking challenges to enhance understanding and application of AI tools.
+
+<img width="354" alt="Screenshot 2024-10-09 at 12 22 24 PM" src="https://github.com/user-attachments/assets/d1db29c4-c3c4-4ce8-bfc0-c01490d2fa04">
+<img width="354" alt="Screenshot 2024-10-09 at 12 23 43 PM" src="https://github.com/user-attachments/assets/8a459c1c-4e00-4590-a74e-cdd718849847">
+<img width="354" alt="Screenshot 2024-10-09 at 12 23 55 PM" src="https://github.com/user-attachments/assets/c503cc66-567b-4409-ac61-fbd3fd705b5f">
+<img width="354" alt="Screenshot 2024-10-09 at 12 24 10 PM" src="https://github.com/user-attachments/assets/fb22121b-b716-4f7b-8a9a-cf53cf798608">
+https://github.com/user-attachments/assets/68a5d5f8-4923-4170-a0be-817ef7c5df01
+
